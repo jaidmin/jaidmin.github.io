@@ -14,6 +14,7 @@ See [Setup](/course-setup) for information on how to set up the cloud environmen
 * [Youtube](https://www.youtube.com/user/howardjeremyp)
 * [Website](http://fast.ai)
 
+Note: you don't need to download any additional data for part one, other than the files copied in the [Setup](/course-setup), even if it says so in the notebooks.
 # Part 1
 <table>
     <tr>
@@ -135,7 +136,9 @@ See [Setup](/course-setup) for information on how to set up the cloud environmen
             </p>
         </td>
         <td>
-            <p> </p>
+            <p> Execute this code at the start of the notebook: <br>
+            <code> !pip install spacy <br> !python -m spacy download "en"
+            </code> </p>
         </td>
     </tr>
 
