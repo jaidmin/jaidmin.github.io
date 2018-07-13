@@ -10,7 +10,7 @@ The easiest way is to use Clouderizer and Google Colab.
 Google Colab is a free service from Google to share and run code in the cloud, it also provides a GPU, which is necessary for deep learning.
 
 Clouderizer is a cloud computing management service, it takes care of installing the required packages to a cloud computing instance (like Amazon AWS or in our case Google Colab).
-Clouderizer is free for 200 hours per month and does not require a credit card, 
+Clouderizer is free for 200 hours per month and does not require a credit card to sign up.
 
 ### 1. Registering the account:
 
