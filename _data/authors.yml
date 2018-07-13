@@ -9,11 +9,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    Hi, I'm Johannes. Im a student of Computer Science and Mathematics at the University of Edinburgh.
+    In this blog I plan to share interesting information about deep/machine/reinforcement learning and other things.
 
   # This photo will be used in the about section.
   picture:
